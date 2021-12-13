@@ -1,0 +1,12 @@
+<i class="fas fa-star"></i>
+<i class="fas fa-map-marker-alt"></i>
+<i class="fas fa-star-half-alt"></i>
+<i class="fas fa-chart-line"></i>
+<i class="fas fa-child"></i>
+<i class="fas fa-money-bill-wave"></i>
+<i class="fas fa-heart"></i>
+<i class="fas fa-dog"></i>
+<i class="fas fa-info"></i>
+
+
+<i class="gg-search"></i>
