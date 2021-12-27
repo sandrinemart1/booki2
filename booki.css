@@ -250,13 +250,12 @@ button i
 aside
 {
     display:flex;
-    width:31%;
+    width:30%;
     flex-wrap: wrap;
     background-color: #F2F2F2;
     border-radius: 50px 50px;
     padding: 1.7%;
     margin: 0 auto;
-    max-width:870px ;
     min-width:280px ;
     }
 #populaires_trois_vignettes
@@ -538,7 +537,7 @@ footer h3
 {
 #conteneur
 { 
-    width: 100%;
+    width: 99%;
     margin: auto;
     }
 h2 
@@ -608,7 +607,11 @@ aside
     max-width: inherit;
     width: 100%;
     }
-
+#entete_populaire
+{
+    width: 94%;
+    margin-left: inherit;
+}
 .populaires_vignettes
 {
     margin-left: 11%;
@@ -748,8 +751,7 @@ aside h2
     }
 #populaires_trois_vignettes article 
 {
-    width: 575px;
-        
+    width:75vw;        
 }
 #alignement_activites
 {
@@ -790,10 +792,17 @@ aside h2
 }
 .foot
 {  
-    margin-left: 50px;
+    text-align: left;
+    margin: 60px;
     }
+.foot a 
+{
+    font-size:20px;
+    color: black;
+}
 footer 
 {
+    display: inherit;
     width: 100%;
     }
     
